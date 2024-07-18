@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegdar&show_icons=true&locale=en&layout=compact" alt="diegdar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegdar&show_icons=true&locale=en" alt="diegdar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diegdar&" alt="diegdar" /></p>
